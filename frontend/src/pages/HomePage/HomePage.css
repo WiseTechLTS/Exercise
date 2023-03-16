@@ -1,0 +1,14 @@
+.background-body{
+    background-image: url("../../images/gym.jpg");
+    background-color: steelblue;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: -1;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
